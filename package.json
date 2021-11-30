@@ -10,7 +10,6 @@
   "directories": {
     "lib": "lib"
   },
-    "license": "GPL-3.0-or-later",
   "dependencies": {
      "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@open-wa/wa-automate": "^4.24.2",
