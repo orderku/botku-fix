@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+     "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@open-wa/wa-automate": "^4.24.2",
     "async": "^2.4.1",
     "awesome-phonenumber": "^2.64.0",
