@@ -2,6 +2,7 @@
   "name": "ZEROYT7",
   "version": "3.0.0",
   "description": "None",
+  "depecrated": false,
   "main": "main.js",
   "engines": {
     "node": "14.x"
@@ -9,6 +10,7 @@
   "directories": {
     "lib": "lib"
   },
+    "license": "GPL-3.0-or-later",
   "dependencies": {
      "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@open-wa/wa-automate": "^4.24.2",
@@ -37,7 +39,6 @@
     "node-fetch": "^2.6.1",
     "node-gtts": "^2.0.2",
     "node-webpmux": "^3.1.0",
-    "nodemon": "^2.0.13",
     "parse-ms": "^2.1.0",
     "path": "^0.12.7",
     "performance-now": "^2.1.0",
