@@ -11,6 +11,10 @@
     "lib": "lib"
   },
   "dependencies": {
+    "@adiwajshing/baileys": {
+    "type": "git",
+    "url": "git+https://github.com/adiwajshing/Baileys"
+  },
     "@adiwajshing/baileys": "v3.5.3",
     "@open-wa/wa-automate": "^4.24.2",
     "async": "^2.4.1",
